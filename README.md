@@ -1,6 +1,6 @@
 ![image info](./static/image/django_bootstrap.png)
 
-# How to Make Your Django Project Look Great with Bootstrap
+# [How to Make Your Django Project Look Great with Bootstrap](https://medium.com/@akinosoissy/make-your-django-app-look-great-with-bootstrap-41cc9045363c)
 
 ## Getting Started
 
